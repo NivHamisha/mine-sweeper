@@ -1,0 +1,1 @@
+Appsflyer task - Mine Sweeper 
